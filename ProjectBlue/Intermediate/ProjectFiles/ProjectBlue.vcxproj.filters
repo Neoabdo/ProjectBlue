@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectBlue.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F99F206E-C0C1-4C97-A6DB-DA62257F27A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectBlue.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectBlueEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{52BD88E5-2F63-4B53-BE85-7B40A7A3516B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectBlue">
+      <UniqueIdentifier>{9C5854F9-763E-4CCB-868A-D299F6A70B4C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectBlue\ProjectBlue.Build.cs">
+      <Filter>Source\ProjectBlue</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectBlue\ProjectBlue.cpp">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBlue\ProjectBlue.h">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectBlue\ProjectBlueCharacter.cpp">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBlue\ProjectBlueCharacter.h">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectBlue\ProjectBlueGameMode.cpp">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBlue\ProjectBlueGameMode.h">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectBlue\ProjectBluePlayerController.cpp">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBlue\ProjectBluePlayerController.h">
+      <Filter>Source\ProjectBlue</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

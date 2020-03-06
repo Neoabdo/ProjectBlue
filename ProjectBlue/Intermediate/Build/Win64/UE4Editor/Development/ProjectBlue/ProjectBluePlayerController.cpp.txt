@@ -1,0 +1,19 @@
+D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Intermediate\Build\Win64\UE4Editor\Development\ProjectBlue\Definitions.ProjectBlue.h
+D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Source\ProjectBlue\ProjectBluePlayerController.h
+D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Intermediate\Build\Win64\UE4Editor\Inc\ProjectBlue\ProjectBluePlayerController.generated.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\Blueprint/AIBlueprintHelperLibrary.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIBlueprintHelperLibrary.generated.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/DecalComponent.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalComponent.generated.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Source\ProjectBlue\ProjectBlueCharacter.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Intermediate\Build\Win64\UE4Editor\Inc\ProjectBlue\ProjectBlueCharacter.generated.h
