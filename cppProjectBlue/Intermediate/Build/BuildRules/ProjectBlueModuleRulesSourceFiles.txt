@@ -1,3 +1,0 @@
-D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Source\ProjectBlue\ProjectBlue.Build.cs
-D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Source\ProjectBlue.Target.cs
-D:\MyProjects\ProjectBlueUE422\ProjectBlue\ProjectBlue\Source\ProjectBlueEditor.Target.cs
